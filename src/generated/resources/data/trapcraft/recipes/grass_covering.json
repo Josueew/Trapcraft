@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "X": {
-      "item": "minecraft:tall_grass"
+      "item": "minecraft:grass"
     },
     "Y": {
       "item": "minecraft:stick"
